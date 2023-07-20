@@ -66,11 +66,8 @@ utils script with functions used in evaluation files for trial set. This script 
 ##### utils_test.py: 
 utils script with functions used in evaluation files for test set. Same as utils.py, but used for test set evaluation, plus code for post-evaluation experiments and analyses. This script only contains print statements where required.
 
-##### tsar_eval-orig_noEncoding.py: 
-original pre-supplied script that gave an UnicodeDecodeError due to missing 'encoding = utf-8' command, added to the script at the appropriate places and saved to tsar_eval.py. See next file. Therefore, tsar_eval-orig_noEncoding.py is not used for evaluation.
-
 ##### tsar_eval.py: 
-pre-supplied script (with small update to correct an error, see above file 'tsar_eval-orig_noEncoding.py') to calculate the 10 evaluation metrics. This script was called from the command line to evaluate the different files in the predictions folder, and the results are recorded in the evaluations and post-evaluations files mentioned above. 
+pre-supplied script (with small update to correct an UnicodeDecodeError due to missing 'encoding = utf-8' command) to calculate the 10 evaluation metrics. This script was called from the command line to evaluate the different files in the predictions folder, and the results are recorded in the evaluations and post-evaluations files mentioned above. 
 
 -----
 
