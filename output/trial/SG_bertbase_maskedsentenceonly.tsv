@@ -1,0 +1,20 @@
+=========   EVALUATION config.=========
+GOLD file = ./data/trial/tsar2022_en_trial_gold_no_noise.tsv
+PREDICTION LABELS file = ./predictions/trial/SG_bertbase_maskedsentenceonly.tsv
+OUTPUT file = ./output/trial/SG_bertbase_maskedsentenceonly.tsv
+===============   RESULTS  =============
+MAP@1/Potential@1/Precision@1 = 0.2
+
+MAP@3 = 0.0777
+MAP@5 = 0.0546
+MAP@10 = 0.0327
+
+Potential@3 = 0.3
+Potential@5 = 0.3
+Potential@10 = 0.5
+
+Accuracy@1@top_gold_1 = 0.2
+Accuracy@2@top_gold_1 = 0.2
+Accuracy@3@top_gold_1 = 0.3
+
+________________________________

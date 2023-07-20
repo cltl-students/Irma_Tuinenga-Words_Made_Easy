@@ -1,0 +1,17 @@
+Requirements for used packages and modules (I used Anaconda):
+
+conda install pandas (is including numpy)
+conda install transformers (is including regex, tokenizers, huggingface_hub)
+conda install spacy
+python -m spacy download en_core_web_sm --user
+conda install nltk
+pip install bert-score (conda install did not work).
+conda install seaborn
+conda install scipy
+conda install matplotlib
+
+
+
+
+
+

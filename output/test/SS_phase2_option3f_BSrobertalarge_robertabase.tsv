@@ -1,0 +1,20 @@
+=========   EVALUATION config.=========
+GOLD file = ./data/test/tsar2022_en_test_gold_no_noise.tsv
+PREDICTION LABELS file = ./predictions/test/SS_phase2_option3f_BSrobertalarge_robertabase.tsv
+OUTPUT file = ./output/test/SS_phase2_option3f_BSrobertalarge_robertabase.tsv
+===============   RESULTS  =============
+MAP@1/Potential@1/Precision@1 = 0.6263
+
+MAP@3 = 0.4293
+MAP@5 = 0.3264
+MAP@10 = 0.2035
+
+Potential@3 = 0.8467
+Potential@5 = 0.9247
+Potential@10 = 0.9677
+
+Accuracy@1@top_gold_1 = 0.2715
+Accuracy@2@top_gold_1 = 0.4059
+Accuracy@3@top_gold_1 = 0.4784
+
+________________________________

@@ -1,0 +1,20 @@
+=========   EVALUATION config.=========
+GOLD file = ./data/test/tsar2022_en_test_gold_no_noise.tsv
+PREDICTION LABELS file = ./predictions/test/posteval_Hyper4-Hypo.tsv
+OUTPUT file = ./output/test/posteval_Hyper4-Hypo.tsv
+===============   RESULTS  =============
+MAP@1/Potential@1/Precision@1 = 0.5967
+
+MAP@3 = 0.4184
+MAP@5 = 0.321
+MAP@10 = 0.201
+
+Potential@3 = 0.8387
+Potential@5 = 0.922
+Potential@10 = 0.9677
+
+Accuracy@1@top_gold_1 = 0.258
+Accuracy@2@top_gold_1 = 0.4059
+Accuracy@3@top_gold_1 = 0.4731
+
+________________________________

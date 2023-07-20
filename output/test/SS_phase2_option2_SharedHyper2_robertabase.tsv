@@ -1,0 +1,20 @@
+=========   EVALUATION config.=========
+GOLD file = ./data/test/tsar2022_en_test_gold_no_noise.tsv
+PREDICTION LABELS file = ./predictions/test/SS_phase2_option2_SharedHyper2_robertabase.tsv
+OUTPUT file = ./output/test/SS_phase2_option2_SharedHyper2_robertabase.tsv
+===============   RESULTS  =============
+MAP@1/Potential@1/Precision@1 = 0.5268
+
+MAP@3 = 0.3436
+MAP@5 = 0.2633
+MAP@10 = 0.1687
+
+Potential@3 = 0.7741
+Potential@5 = 0.8575
+Potential@10 = 0.9327
+
+Accuracy@1@top_gold_1 = 0.2258
+Accuracy@2@top_gold_1 = 0.3387
+Accuracy@3@top_gold_1 = 0.4059
+
+________________________________
