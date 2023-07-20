@@ -1,2 +1,2 @@
 # WordsMadeEasy
-A Comparative Study of Methods for English Lexical Simplification
+A Comparative Study of Methods for English Lexical Simplification.
