@@ -44,9 +44,9 @@ For example, see ./data/trial/ tsar2022_en_trial_none: the third sentence starts
 
 - Preprocessing actions for the CEFR datasets used. For the availability of these datasets, see the note at the bottom of this README. 
 
-##### EVALUATION FILES FOR TRIAL AND TEST SET:
+##### **Evaluation files for trial and test set:**
 
-##### 3. evaluations_SG_SS_phase1_6models_trial.ipynb. 
+##### 3. evaluations_SG_SS_phase1_6models_trial.ipynb.** 
 ##### 4. evaluations_SG_SS_phase1+2_best2models_trial.ipynb. 
 ##### 5. evaluations_SR_Hyper-Hypo_trial.ipynb. 
 ##### 6. evaluations_SR_CEFR_trial.ipynb. 
@@ -59,7 +59,10 @@ For example, see ./data/trial/ tsar2022_en_trial_none: the third sentence starts
 ##### 12. post-eval_analysis_SR_CEFR_test.ipynb. 
 
 
-##### SCRIPTS:
+
+
+##### **Scripts:**
+
 ##### utils.py: 
 utils script with functions used in evaluation files for trial set. This script also contains several elaborate print statements, created for verification purposes throughout the development stages of the code.
 
@@ -72,4 +75,4 @@ pre-supplied script (with small update to correct an UnicodeDecodeError due to m
 -----
 
 ### Note:
-The used CEFR datasets, due to their restricted licenses, are not included in the upload to this (public) cltl GitHub. 
+*The used CEFR datasets, due to their restricted licenses, are not included in the upload to this (public) cltl GitHub.* 
