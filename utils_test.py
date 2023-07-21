@@ -1233,7 +1233,7 @@ def posteval_analysis_cefr_weighted_stats_goldlabels(weighted_dataset, gold):
         # check if CEFR levels are in ascending order
         if substitutes_cefr_levels == sorted(substitutes_cefr_levels) and len(substitutes_cefr_levels) > 1:
             counter_sorted += 1
-            print(f"\nRow {index}: CEFR levels are sorted in ascending order")
+            # print(f"\nRow {index}: CEFR levels are sorted in ascending order")
 
     #calculate statistics for the gold substitutes (except those with level 7)
     if gold_cefr_levels:
