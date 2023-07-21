@@ -44,8 +44,7 @@ For example, see ./data/trial/ tsar2022_en_trial_none: the third sentence starts
 
 - Preprocessing actions for the CEFR datasets used. For the availability of these datasets, see the note at the bottom of this README. 
 
-##### **Evaluation files for trial and test set:**
-
+*Evaluation files for trial and test set:*
 ##### 3. evaluations_SG_SS_phase1_6models_trial.ipynb.** 
 ##### 4. evaluations_SG_SS_phase1+2_best2models_trial.ipynb. 
 ##### 5. evaluations_SR_Hyper-Hypo_trial.ipynb. 
@@ -56,8 +55,7 @@ For example, see ./data/trial/ tsar2022_en_trial_none: the third sentence starts
 ##### 9. post-eval_experiments_test.ipynb. 
 
 
-##### **Scripts:**
-
+*Scripts:*
 ##### utils.py: 
 utils script with functions used in evaluation files for trial set. This script also contains several elaborate print statements, created for verification purposes throughout the development stages of the code.
 
