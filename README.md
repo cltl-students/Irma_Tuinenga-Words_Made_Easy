@@ -52,13 +52,8 @@ For example, see ./data/trial/ tsar2022_en_trial_none: the third sentence starts
 ##### 6. evaluations_SR_CEFR_trial.ipynb. 
 
 ##### 7. evaluations_SG_SS_phase1+2_test.ipynb. 
-##### 8. evaluations_SR_Hyper-Hypo_test.ipynb.
-##### 9. evaluations_SR_CEFR_test.ipynb. 
-##### 10. post-eval_experiments_SG_robertalarge_test.ipynb. 
-##### 11. post_eval_experiments_SR_Hyper-Hypo_test.ipynb. 
-##### 12. post-eval_analysis_SR_CEFR_test.ipynb. 
-
-
+##### 8. evaluations_SR_test.ipynb. This file corresponds to the results presented in sections 5.1 and 5.2 of the thesis.
+##### 9. post-eval_experiments_test.ipynb. This file corresponds to post-evaluation experiments and results presented in section 5.5 and 6.4 of the thesis. 
 
 
 ##### **Scripts:**
