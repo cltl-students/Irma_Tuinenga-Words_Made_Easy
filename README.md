@@ -9,10 +9,10 @@ The repository contains the following folders and files:
 #### data: 
 This folder contains 2 sub folders: trial and test. The trial subfolder is used for development of the models; the test subfolder set is used for evaluation. 
 Both sub folders contain 4 files: 
-- 2 files without annotations: the original file (tsar2022_en_XXX_none.tsv) and the cleaned file (tsar2022_en_XXX_none_no_noise.tsv). 
-- 2 files including annotations (the gold files): the original file (tsar2022_en_XXX_gold.tsv) and the cleaned file (tsar2022_en_XXX_gold_no_noise.tsv).
+- 2 files without annotations: the original file (tsar2022_en_XXXX_none.tsv) and the cleaned file (tsar2022_en_XXXX_none_no_noise.tsv). 
+- 2 files including annotations (the gold files): the original file (tsar2022_en_XXXX_gold.tsv) and the cleaned file (tsar2022_en_XXXX_gold_no_noise.tsv).
   
-XXX = 'trial' or 'test' depending on the folder.
+XXXX = 'trial' or 'test' depending on the folder.
 
 For more information about how the cleaned files were created see 'datafiles_preprocessing.ipynb' at 'FILES' in this README..
 
