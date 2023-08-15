@@ -32,9 +32,6 @@ This folder contains 2 sub folders: trial and test. The trial subfolder contains
 ### FILES: 
 The numbered order below is in accordance with the order if you want to reproduce the results.
 
-NB Please note that the model names in the code materials differ slightly from the model names used in the thesis.
-
-
 ##### 1. requirements.txt: 
 The requirements in order to run the code in this repository.
 
@@ -45,7 +42,7 @@ For example, see ./data/trial/ tsar2022_en_trial_none: the third sentence starts
 - Preprocessing actions for the CEFR datasets used. For the availability of these datasets, see the note at the bottom of this README. 
 
 *Evaluation files for trial and test set:*
-##### 3. evaluations_SG_SS_phase1_6models_trial.ipynb.** 
+##### 3. evaluations_SG_SS_phase1_6models_trial.ipynb. 
 ##### 4. evaluations_SG_SS_phase1+2_best2models_trial.ipynb. 
 ##### 5. evaluations_SR_Hyper-Hypo_trial.ipynb. 
 ##### 6. evaluations_SR_CEFR_trial.ipynb. 
