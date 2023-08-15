@@ -14,7 +14,7 @@ Both sub folders contain 4 files:
   
 XXXX = 'trial' or 'test' depending on the folder.
 
-For more information about how the cleaned files were created see 'datafiles_preprocessing.ipynb' at 'FILES' in this README..
+For more information about how the cleaned files were created see 'datafiles_preprocessing.ipynb' at 'FILES' in this README.
 
 -----
 
